@@ -1,4 +1,4 @@
-[
+{[
   {id: 1, name: 'primo', cognome: 'Ciccio', eta: 12},
   {id: 2, name: 'secondo', cognome: 'Ciccio', eta: 12},
   {id: 3, name: 'terzo', cognome: 'Ciccio', eta: 12},
@@ -8,4 +8,4 @@
   {id: 7, name: 'settimo', cognome: 'Ciccio', eta: 12},
   {id: 8, name: 'ottavo', cognome: 'Ciccio', eta: 12},
   {id: 9, name: 'nono', cognome: 'Ciccio', eta: 12}
-]
+]}
